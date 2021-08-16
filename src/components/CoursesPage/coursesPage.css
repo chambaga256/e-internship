@@ -1,0 +1,12 @@
+.card{
+    padding: 2rem 0 2rem 0;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+}
+
+.main{
+    padding-top: 2rem;
+}
+
+.title{
+    font-weight: bold;
+}
